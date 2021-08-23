@@ -5,7 +5,7 @@ I am a self-taught backend developer looking for that amazing company where I ca
 About me:
 
 - 🗺 I'm from **Colombia.**
-- 🦘 I lived for two years in **Australia**.
+- 🦘 I lived for a couple of years in **Australia**.
 - 🥋 I'm currently **training on [Codewars](https://www.codewars.com/users/ligomez).**
 - 🌱 I’m learning **Django, flask, PostgreSQL and Java Spring at the moment.** 
 - 🔐 Interested on the **Ciber Security field.**
