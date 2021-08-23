@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Liliana
 
-<!--
-**ligomez/ligomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught backend developer looking for that amazing company where I can start my professional career and help each other to grow through achieving goals together. Some technologies I enjoy working with include Python, Java and MySQL. I'm good at solving problems and passionate about challenges.
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗺 I'm from **Colombia.**
+- 🦘 I lived for two years in **Australia**.
+- 🥋 I'm currently **training on [Codewars](https://www.codewars.com/users/ligomez).**
+- 🌱 I’m learning **Django, flask, PostgreSQL and Java Spring at the moment.** 
+- 🔐 Interested on the **Ciber Security field.**
+- 👯 I’m looking to collaborate on **open source projects.**
+- ⚡ Fun fact **I love scape rooms.**
+- ♥ I love **connecting with different people.**
+- 📫 Reach me on **Linkedin.**
+
+
