@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Liliana
 
-I am a self-taught backend developer looking for that amazing company where I can start my professional career and we can grow together while achieving common goals. Some technologies I enjoy working with include Python, Java and MySQL. I'm good at solving problems and passionate about new challenges.
+I am a self-taught backend developer looking for that amazing company where I can start my professional career and we can grow together while achieving common goals. Some technologies I enjoy working with include **Python, Java and MySQL.** I'm good at solving problems and passionate about new challenges.
 
 About me:
 
