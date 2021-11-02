@@ -7,7 +7,7 @@ About me:
 - 🗺 I'm from **Colombia.**
 - 🦘 I lived for a couple of years in **Australia**.
 - 🥋 I'm currently **training on [Codewars](https://www.codewars.com/users/ligomez).**
-- 🌱 I’m learning **Django, flask, PostgreSQL and Java Spring at the moment.** 
+- 🌱 I’m learning **Django, vuejs, PostgreSQL, HTML, CSS and JavaScript at the moment.** 
 - 🔐 Interested on the **Ciber Security field.**
 - 👯 I’m looking to collaborate on **open source projects.**
 - ⚡ Fun fact **I love scape rooms.**
