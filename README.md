@@ -12,6 +12,6 @@ About me:
 - 👯 I’m looking to collaborate on **open source projects.**
 - ⚡ Fun fact **I love scape rooms.**
 - ♥ I love **connecting with different people.**
-- 📫 Reach me on **[Linkedin](https://www.linkedin.com/in/liliana-gomez-mancipe/).**
+- 📫 Reach me on **[Linkedin](https://www.linkedin.com/in/lilianagomezm/).**
 
 
