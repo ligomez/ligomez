@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Liliana
 
-I am a self-taught mobile developer fluent in both English and Spanish. Some technologies I enjoy working with include **Python, Kotlin, Java, Android and MySQL.** I'm good at solving problems and passionate about new challenges.
+I am a self-taught software developer fluent in both English and Spanish. Some technologies I enjoy working with include **Python, Kotlin, Java, Android and MySQL.** I'm good at solving problems and passionate about new challenges.
 
 About me:
 
