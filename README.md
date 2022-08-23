@@ -4,7 +4,7 @@ I am a self-taught mobile developer fluent in both English and Spanish. Some tec
 
 About me:
 
-- 🗺 I'm from **Colombia**, currently living in the **US**.
+- 🗺 I'm from **Colombia**.
 - 🦘 Lived for a couple of years in **Australia**.
 - 🥋 **Training on [Codewars](https://www.codewars.com/users/ligomezm).**
 - 🌱 Learning **Clean Architecture, Jetpack and Flutter at the moment.** 
