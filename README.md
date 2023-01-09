@@ -8,7 +8,7 @@ About me:
 - 🦘 Lived for a couple of years in **Australia**.
 - 🥋 **Training on [Codewars](https://www.codewars.com/users/ligomezm).**
 - 🌱 Learning **Game development, Clean Architecture, Jetpack and Flutter at the moment.** 
-- 🔐 Interested in **Games/game development and Mobile development - Android.**
+- 🔐 Interested in **Game development, Gaminf and Android mobile development - .**
 - 👯 Looking to collaborate on **open source projects.**
 - ⚡ Fun fact **I love scape rooms.**
 - ♥  I love **connecting with different people.**
