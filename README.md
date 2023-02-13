@@ -5,7 +5,7 @@ I am a self-taught mobile developer currently finishing the the first Unity Jr. 
 About me:
 
 - 🗺 Currently living in **New York**.
-- :video_game: Finishing the **Jr. Unity Developer bootcamp** by Unity and Generation.
+- :video_game: Completed the **Jr. Unity Developer bootcamp** by Unity and Generation.
 - :joystick: Check out some of **[my games](https://itch.io/profile/ligomezm).** 
 - 🌱 Learning **Game development, C#, Unity and Clean Architecture at the moment.** 
 - 🔐 Interested in **Game development, VR/AR, Gaming and Android mobile development.**
