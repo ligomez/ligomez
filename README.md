@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Liliana
 
-I am a self-taught developer, interested in **Game development, VR/AR and Gaming.** Finished the Unity Jr. Developer Bootcamp. Fluent in both English and Spanish. Some technologies I enjoy working with include **C#, Unity, Kotlin, Android.** I'm good at solving problems and passionate about new challenges.
+I am a self-taught developer, interested in **Game development, VR/AR and Gaming.** Finished the Jr. Unity Developer Bootcamp. Fluent in both English and Spanish. Some technologies I enjoy working with: **C#, Unity, Kotlin, Android.** I'm good at solving problems and passionate about new challenges.
 
 About me:
 - 🗺 Currently living in **New York**.
