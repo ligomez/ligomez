@@ -6,9 +6,8 @@ About me:
 
 - 🗺 Currently living in **New York**.
 - :video_game: Completed the **Jr. Unity Developer bootcamp** by Unity and Generation.
-- :joystick: Check out some of **[my games](https://itch.io/profile/ligomezm).** 
-- 🌱 Learning **Game development, C#, Unity and Clean Architecture at the moment.** 
-- 🔐 Interested in **Game development, VR/AR, Gaming and Android mobile development.**
+- :joystick: Check out some of **[my games](https://ligomezm.itch.io).** 
+- 🔐 Interested in **Game development, VR/AR, Gaming.**
 - 📫 Reach me on **[Linkedin](https://www.linkedin.com/in/ligomezm/).**
 - 🥋 **Training on [Codewars](https://www.codewars.com/users/ligomezm).**
 - ⚡ Fun fact **I love scape rooms.**
